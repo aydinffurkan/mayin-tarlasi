@@ -1,1 +1,1 @@
-"# mayin-tarlasi" 
+Projeyle ilgili gerekli dökumantasyon eklenmistir.
